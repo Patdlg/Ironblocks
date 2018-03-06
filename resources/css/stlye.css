@@ -103,6 +103,8 @@ section {
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 40px;
+  padding-bottom: 40px;
+
 }
 
 
@@ -263,6 +265,7 @@ h3 {
 .long-copy {
   font-size: 25px;
   margin-bottom: 0px;
+
 }
 
 /*----------cities----------*/
@@ -271,6 +274,7 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+
 }
 
 .city-feature  {
@@ -282,4 +286,8 @@ h3 {
   margin-top: 15px;
   margin-bottom: 5px;
 
+}
+
+.footer {
+  background-color: #32c3ff;
 }
